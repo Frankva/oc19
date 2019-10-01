@@ -7,4 +7,5 @@ Site personnel pour l’option complémentaire en informatique 2019-20
 - Introduction à Python
 - - fonction
 - - Structures de données
-- - liste, dictionnaire, tuple 
+- - listes, dictionnaires, tuple 
+- MarkDown
